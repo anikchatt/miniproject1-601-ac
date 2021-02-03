@@ -4,6 +4,9 @@
 * Anik Chattopadhyay 
 * Elio Nicholas 
 
+# Overview
+This repository is will act as a introductory guide to the features of Github. The goal will be to educate a user of what is achievable when leveraging a code hosting platform for version control and collaboration. The table of contents below shows the sections that we cover throughout this repository. 
+
 # Table of Contents: 
 * [ ] [GitFlow](/Sections/gitFlow.md) 
 * [ ] [Repository](/Sections/Repository.md)  
