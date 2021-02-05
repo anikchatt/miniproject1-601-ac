@@ -5,10 +5,10 @@
 * Elio Nicholas 
 
 ## Overview
-This repository will act as a introductory guide to the features of Github and how leveraging git, docker, continous integration, and automated testing helps orgainzations stay productive and competitive. The goal will be to educate a user of what is achievable when leveraging a code hosting platform for version control and collaboration. The table of contents below shows the sections that we cover throughout this repository. 
+This repository will act as a introductory guide to the features of Github and how leveraging Git, Docker, continous integration, and automated testing helps orgainzations stay productive and competitive. The goal will be to educate a user of what is achievable when leveraging a code hosting platform for version control and collaboration. The table of contents below shows the sections that we cover throughout this repository. 
 
 ## Table of Contents: 
-* [x] ['Project Description'](/ProjectDescription.md)
+* [x] [Project Description](/ProjectDescription.md)
 * [ ] [GitFlow](/Sections/gitFlow.md) 
 * [ ] [Repository](/Sections/Repository.md)  
 * [ ] [Clone](/Sections/Clone.md) 
@@ -22,4 +22,4 @@ This repository will act as a introductory guide to the features of Github and h
 * [ ] [Remote Add/Remove/Show](/Sections/Remote_Add_Remove_Show.md) 
 * [ ] [Status](/Sections/Status.md) 
 * [ ] [Master Branch](/Sections/Master.md) 
-* [ ] ['Sources']('/Sources.md')
+* [ ] [Sources](/Sources.md)
