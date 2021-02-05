@@ -5,7 +5,7 @@
 * Elio Nicholas 
 
 # Overview
-This repository is will act as a introductory guide to the features of Github. The goal will be to educate a user of what is achievable when leveraging a code hosting platform for version control and collaboration. The table of contents below shows the sections that we cover throughout this repository. 
+This repository is will act as a introductory guide to the features of Github. The goal will be to educate a user of what is achievable when leveraging a code hosting platform for version control and collaboration. The table of contents below shows the sections that we cover throughout this repository. We hope the reader will have a better understanding of how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company. 
 
 # Table of Contents: 
 * [ ] [GitFlow](/Sections/gitFlow.md) 
