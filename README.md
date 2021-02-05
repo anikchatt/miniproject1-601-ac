@@ -1,13 +1,14 @@
-## IS601 Project 1: Git Collaboration 
+# IS601 Project 1: Git Collaboration 
 
-# Group Members: 
+## Group Members: 
 * Anik Chattopadhyay 
 * Elio Nicholas 
 
-# Overview
-This repository is will act as a introductory guide to the features of Github. The goal will be to educate a user of what is achievable when leveraging a code hosting platform for version control and collaboration. The table of contents below shows the sections that we cover throughout this repository. We hope the reader will have a better understanding of how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company. 
+## Overview
+This repository will act as a introductory guide to the features of Github and how leveraging git, docker, continous integration, and automated testing helps orgainzations stay productive and competitive. The goal will be to educate a user of what is achievable when leveraging a code hosting platform for version control and collaboration. The table of contents below shows the sections that we cover throughout this repository. 
 
-# Table of Contents: 
+## Table of Contents: 
+* [x] ['Project Description'](/ProjectDescription.md)
 * [ ] [GitFlow](/Sections/gitFlow.md) 
 * [ ] [Repository](/Sections/Repository.md)  
 * [ ] [Clone](/Sections/Clone.md) 
@@ -21,3 +22,4 @@ This repository is will act as a introductory guide to the features of Github. T
 * [ ] [Remote Add/Remove/Show](/Sections/Remote_Add_Remove_Show.md) 
 * [ ] [Status](/Sections/Status.md) 
 * [ ] [Master Branch](/Sections/Master.md) 
+* [ ] ['Sources']('/Sources.md')
