@@ -19,7 +19,7 @@ This repository will act as a introductory guide to the features of Github and h
 * [x] [Checkout](/Sections/Checkout.md) 
 * [x] [Push](/Sections/Push.md) 
 * [x] [Pull](/Sections/Pull.md) 
-* [ ] [Remote Add/Remove/Show](/Sections/Remote_Add_Remove_Show.md) 
+* [x] [Remote Add/Remove/Show](/Sections/Remote_Add_Remove_Show.md) 
 * [ ] [Status](/Sections/Status.md) 
 * [ ] [Master Branch](/Sections/Master.md) 
 * [ ] [Sources](/Sources.md)
