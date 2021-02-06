@@ -47,4 +47,4 @@ The types of the supporting branches are feature, release, and hotfix. The benef
 Using GitFlow is very helpful and easy to implement within a software development team. The overall flow for the GitFlow methodology is a development branch is created from the main branch. Then a feature branch is are created from the development branch and merged back into the development branch. A release branch is created from the development branch and is merged into the main and development branch. Finally, if an issue in production is noticed, a hotfix branch is created from the main branch, once the hotfix branch is completed it is merged back into the main and development branches. 
 
 A diagram of the GitFlow Process can be seen below: 
-![GitFlow](images/gitFlow.png)
+![GitFlow](/images/gitFlow.png)
