@@ -6,7 +6,7 @@ GitFlow is the branching development model for Git designed by Vincent Driessen.
 
 # Main Branches
 
-After creating a [repository](/Sections/Repository.md) that includes a [Main Branch](/Sections/Master.md) that will be deployed to Production, the developer should create another [Branch](/Sections/Branch.md) that is parallel to the main branch, development. The development branch will act as an integration branch for features that are included throughout the development process. To create a new branch named development and push it to the existing repository the developer can do: 
+After creating a [repository](/Sections/Repository.md) that includes a [Main Branch](/Sections/Master.md) that will be deployed to Production, the developer should create another [branch](/Sections/Branch.md) that is parallel to the main branch, development. The development branch will act as an integration branch for features that are included throughout the development process. To create a new branch named development and push it to the existing repository the developer can do: 
 ```
 $ git branch development 
 $ git push -u origin development
@@ -17,7 +17,7 @@ When working with other developers, they should clone the repository and begin t
 
 The types of the supporting branches are feature, release, and hotfix. The benefits of using these supporting branches are that they provide opportunities for developers to easily track features and assist to debug problems that may arise from production. 
 
-* Feature Branch: Feature branches typically branch off the development branch and merge back into the development branch. The purpose of a feature branch is to allow multiple developers to work on a specific task without interacting with the main branch. To create a new feature branch from development and merge the feature branch back into the development branch the developer can do: 
+* Feature Branch: Feature branches typically branch off the development branch and  [merge](/Sections/Merge.md) back into the development branch. The purpose of a feature branch is to allow multiple developers to work on a specific task without interacting with the main branch. To create a new feature branch from development and merge the feature branch back into the development branch the developer can do: 
 ```
  $ git checkout -b feature_branch1
  $ git checkout development
