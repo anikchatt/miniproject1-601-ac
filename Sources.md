@@ -33,3 +33,34 @@
 # Commit: 
 
 * https://www.git-tower.com/learn/git/commands/git-commit/
+
+# Merge: 
+
+* https://guides.github.com/introduction/git-handbook/
+
+# Checkout:
+
+* https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+# Push: 
+
+* https://guides.github.com/introduction/git-handbook/
+
+# Pull: 
+
+* https://youtu.be/-uQHV9GOA0w?list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4
+* https://guides.github.com/introduction/git-handbook/
+* https://git-scm.com/docs/git-pull
+
+# Remote Add/Remove/Show:
+
+* https://guides.github.com/introduction/git-handbook/
+* https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+
+# Status: 
+
+* https://guides.github.com/introduction/git-handbook/
+
+# Master Branch: 
+
+* https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
