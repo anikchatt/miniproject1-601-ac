@@ -9,13 +9,13 @@ This repository will act as a introductory guide to the features of Github and h
 
 ## Table of Contents: 
 * [x] [Project Description](/ProjectDescription.md)
-* [ ] [GitFlow](/Sections/gitFlow.md) 
+* [x] [GitFlow](/Sections/gitFlow.md) 
 * [ ] [Repository](/Sections/Repository.md)  
 * [ ] [Clone](/Sections/Clone.md) 
 * [ ] [Fork](/Sections/Fork.md) 
 * [ ] [Branch](/Sections/Branch.md) 
 * [ ] [Commit](/Sections/Commit.md) 
-* [ ] [Merge](/Sections/Merge.md)  
+* [x] [Merge](/Sections/Merge.md)  
 * [ ] [Checkout](/Sections/Checkout.md) 
 * [ ] [Push](/Sections/Push.md) 
 * [ ] [Pull](/Sections/Pull.md) 
