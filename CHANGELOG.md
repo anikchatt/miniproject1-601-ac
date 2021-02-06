@@ -1,0 +1,49 @@
+- Task: Checked off Master Branch
+- Task: Checked off Status
+- Task: Checked off Remote Add/Remove/Show
+- Fix: Updated Table of Contents
+- Feature: Added Sources with links used for research / tutorials
+- Fix: Updating table of content to check off commit
+- Feature: Adding documentation about Commit
+- Task: Adding git commit image
+- Fix: Fixing branch image part2
+- Fix: Fixing branch image
+- Feature: Updating Branch with documentation
+- Fix: Updating table of contents with a checkmark for Branch
+- Task: Adding image for git branch
+- Fix: Updating table of contents to check off Fork
+- Feature: Adding Fork information
+- Task: Adding fork image
+- Fix: Updating table of contents checklist for cloning
+- Feature: Adding documentation on Git Cloning
+- Task: Uploading git clone gif
+- Fix: Adding hyperlink for github
+- Fix: Updated table of contents checklist
+- Feature: Added information about repositories
+- Fix: Reformatting syntax with image
+- Fix: Adding links to other sections for keywords
+- Merge remote-tracking branch 'origin/ENFeature'
+- Delete Duplicate Merge.md
+- Update Merge.md
+- Fix: Updated Table of Contents checklist
+- Fix: Fixing image diagram in gitFlow part 4
+- Fix: Fixing image diagram in gitFlow part 3
+- Fix: Typo in Merge doc
+- Feature: Defined Merge
+- Fix: Fixing image diagram in gitFlow part 2
+- Fix: Fixing image diagram in gitFlow
+- Feature: Added documentation for GitFlow
+- Task: Added image of GitFlow Diagram
+- Fix: Removing quotes in project desc and sources
+- Feature: Added Project Description definitions and information
+- Fix: Changes made to overview section
+- Task: Added project description and sources markdowns
+- Fix: Updated README.md with more info in the overview section
+- Fix: Adding in an overview section in the README.md
+- Feature: added in a repo image to be used within Repository section
+- Fix: Adding correct links so Readme directs to correct section
+- Fix: Attempting to get check boxes to correctly format
+- Fix: Re-formatting the markdown pages into a Section directory and fixing Readme
+- Task: Setting up all markdown files and image directories for mini project 1
+- Task: Added gitignore
+- Initial commit
