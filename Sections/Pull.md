@@ -35,9 +35,6 @@ A *pull request* allows you to share and discuss the changes that you made with 
 
 
 
-### Sources:  
-* [Git & GitHub: Git Pull and Git Push](https://youtu.be/-uQHV9GOA0w?list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4)  
-* [Git Handbook](https://guides.github.com/introduction/git-handbook/)  
-* [Git Pull - SCM](https://git-scm.com/docs/git-pull)
+
 
            

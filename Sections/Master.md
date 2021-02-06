@@ -7,5 +7,3 @@ It is important to note that there is nothing special about this branch in Git. 
 In some cases, the `master` branch is called the `main` branch. Git is beginning to use `main` and `master` interchangeably.
 
 
-### Sources:
-* [Git Branching - Branches in a Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)

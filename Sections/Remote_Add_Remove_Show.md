@@ -34,6 +34,3 @@ $ git remote show origin
 When running `git remote show origin` we get the URL for the remote repository as well as the tracking branch information. It also tells us what branch we are on, and what will happen if we `git pull` or `git push`. 
 
 
-### Sources:
-* [Git Handbook](https://guides.github.com/introduction/git-handbook/)
-* [Git Basics - Working with Remotes](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)

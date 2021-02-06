@@ -6,6 +6,4 @@
 To learn more about what it means to pull the changes, [click here](/Sections/Pull.md)!
 
 
-### Sources:
-* [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 

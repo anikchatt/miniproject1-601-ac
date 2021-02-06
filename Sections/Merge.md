@@ -5,6 +5,4 @@ After creating and working on a branch other than the master/main branch `git me
 It is important to note that **GitHub** keeps the entire branch development history on the merged branch.
 
 
-### Sources:
-* [The Git Handbook](https://guides.github.com/introduction/git-handbook/)
 

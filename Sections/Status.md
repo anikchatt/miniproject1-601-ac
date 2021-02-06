@@ -17,6 +17,4 @@ Changes not staged for commit:
 If we use `git add` to stage *File1.md* and then use git `git status` the response will tell us that *File1.md* has been staged and is ready to be committed.
 
 
-### Sources:
-* [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 
