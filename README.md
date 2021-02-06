@@ -9,7 +9,6 @@ This repository will act as a introductory guide to the features of Github and h
 
 ## Table of Contents: 
 * [x] [Project Description](/ProjectDescription.md)
-<<<<<<< HEAD
 * [x] [GitFlow](/Sections/gitFlow.md) 
 * [x] [Repository](/Sections/Repository.md)  
 * [x] [Clone](/Sections/Clone.md) 
@@ -23,19 +22,4 @@ This repository will act as a introductory guide to the features of Github and h
 * [x] [Remote Add/Remove/Show](/Sections/Remote_Add_Remove_Show.md) 
 * [x] [Status](/Sections/Status.md) 
 * [x] [Master Branch](/Sections/Master.md) 
-=======
-* [ ] [GitFlow](/Sections/gitFlow.md) 
-* [ ] [Repository](/Sections/Repository.md)  
-* [ ] [Clone](/Sections/Clone.md) 
-* [ ] [Fork](/Sections/Fork.md) 
-* [ ] [Branch](/Sections/Branch.md) 
-* [ ] [Commit](/Sections/Commit.md) 
-* [ ] [Merge](/Sections/Merge.md)  
-* [x] [Checkout](/Sections/Checkout.md) 
-* [x] [Push](/Sections/Push.md) 
-* [ ] [Pull](/Sections/Pull.md) 
-* [ ] [Remote Add/Remove/Show](/Sections/Remote_Add_Remove_Show.md) 
-* [ ] [Status](/Sections/Status.md) 
-* [ ] [Master Branch](/Sections/Master.md) 
->>>>>>> ENFeature
-* [ ] [Sources](/Sources.md)
+* [x] [Sources](/Sources.md)
