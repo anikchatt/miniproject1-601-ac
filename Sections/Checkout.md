@@ -1,4 +1,4 @@
-## Checkout
+## Git-Checkout
 
 `git checkout` allows us to switch branchess. If we are working on the master/main branch, and we create a branch:  
 
@@ -19,4 +19,5 @@ This is short for:
 
 
 
-Sources: [Git SCM](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) 
+### Sources:
+* [Git SCM](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) 
