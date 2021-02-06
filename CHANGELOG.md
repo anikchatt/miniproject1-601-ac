@@ -23,8 +23,8 @@
 - Fix: Reformatting syntax with image
 - Fix: Adding links to other sections for keywords
 - Merge remote-tracking branch 'origin/ENFeature'
-- Delete Duplicate Merge.md
-- Update Merge.md
+- Fix: Delete Duplicate Merge.md
+- Fix: Update Merge.md
 - Fix: Updated Table of Contents checklist
 - Fix: Fixing image diagram in gitFlow part 4
 - Fix: Fixing image diagram in gitFlow part 3
