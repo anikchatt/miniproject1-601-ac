@@ -1,6 +1,8 @@
 ## Git-Pull
 
-`git pull` updates the local branch that you are currently checked out to with any new commits that have been on the remote [branch](/Sections/Branch.md) of the same repository. When contributing to an existing branch on Github, on a project called 'miniproject' and after having cloned it:
+`git pull` updates the local branch that you are currently checked out to with any new commits that have been on the remote [branch](/Sections/Branch.md) of the same repository. **git pull** is shorthand for **git fetch** followed by **git merge** to merge the retrieved branch heads into the current branch.
+
+For example, when contributing to an existing branch on Github, on a project called 'miniproject' and after having cloned it:
 
 ```
 # change into the desired directory
@@ -28,8 +30,14 @@ A *pull request* allows you to share and discuss the changes that you made with 
 
  
 
+### Read more:
+* [git-fetch](https://git-scm.com/docs/git-fetch)
 
 
 
-Sources: [Git & GitHub: Git Pull and Git Push](https://youtu.be/-uQHV9GOA0w?list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4) & [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+### Sources:  
+* [Git & GitHub: Git Pull and Git Push](https://youtu.be/-uQHV9GOA0w?list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4)  
+* [Git Handbook](https://guides.github.com/introduction/git-handbook/)  
+* [Git Pull - SCM](https://git-scm.com/docs/git-pull)
+
            
