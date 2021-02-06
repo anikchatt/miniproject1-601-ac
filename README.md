@@ -13,7 +13,7 @@ This repository will act as a introductory guide to the features of Github and h
 * [x] [Repository](/Sections/Repository.md)  
 * [x] [Clone](/Sections/Clone.md) 
 * [x] [Fork](/Sections/Fork.md) 
-* [ ] [Branch](/Sections/Branch.md) 
+* [x] [Branch](/Sections/Branch.md) 
 * [ ] [Commit](/Sections/Commit.md) 
 * [x] [Merge](/Sections/Merge.md)  
 * [ ] [Checkout](/Sections/Checkout.md) 
