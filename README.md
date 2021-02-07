@@ -24,3 +24,7 @@ This repository will act as a introductory guide to the features of Github and h
 * [x] [Pull](/Sections/Pull.md)
 * [x] [Sources](/Sources.md)
 * [x] [Changelog](/CHANGELOG.md)
+
+The Git Workflow: 
+
+![GitFlow Collaboration](/images/gitCollab.jpg)  
