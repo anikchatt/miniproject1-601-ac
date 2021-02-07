@@ -1,5 +1,8 @@
 ### 2020-02-07
-* EN - Fix: Fix: Added navigation links to Repository.md  
+* EN - Fix: Added navigation links to Remote_Add_Remove_Show.md  
+* EN - Fix: Added navigation links to Clone.md
+* EN - Fix: Added navigation links to Master.md
+* EN - Fix: Added navigation links to Repository.md  
 * EN - Fix: Added navigation links in gitFlow.md    
 * EN - Fix: Update Changelog  
 * EN - Fix: Fix ProjectDescription link in Table of Contents  
