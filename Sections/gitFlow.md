@@ -1,4 +1,5 @@
-[<<< Table of Contents](/README.md)
+[<<< Table of Contents](/README.md)  
+[<<<Project Description](/Sections/ProjectDescription.md)
 ## GitFlow 
 
 # What is GitFlow? 
