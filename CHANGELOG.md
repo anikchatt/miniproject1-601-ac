@@ -1,4 +1,5 @@
 ### 2020-02-07
+EN - Fix: Updated Changelog 2020-02-06
 EN - Fix: Updated Changelog 2020-02-05  
 
 
