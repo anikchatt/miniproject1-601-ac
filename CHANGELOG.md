@@ -1,4 +1,5 @@
 ### 2020-02-07
+EN - Fix: Update Changelog
 EN - Fix: Fix ProjectDescription link in Table of Contents
 EN - Fix: Added navigation links in ProjectDescription.md
 EN - Fix: Updated Changelog 2020-02-06
