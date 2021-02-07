@@ -1,3 +1,7 @@
+[<<< Table of Contents](/README.md)  
+[<<< Clone](/Sections/Clone.md)
+
+
 ## Remote Add/Remove/Show
 
 
@@ -34,3 +38,4 @@ $ git remote show origin
 When running `git remote show origin` we get the URL for the remote repository as well as the tracking branch information. It also tells us what branch we are on, and what will happen if we `git pull` or `git push`. 
 
 
+[>>> Fork](/Sections/Fork.md)
