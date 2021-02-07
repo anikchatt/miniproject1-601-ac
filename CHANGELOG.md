@@ -1,4 +1,7 @@
 ### 2020-02-07
+* EN - Fix: Added navigation links to Checkout.md
+* EN - Fix: Added navigation links to Branch.md
+* EN - Fix: Added navigation links to Fork.md
 * EN - Fix: Added navigation links to Remote_Add_Remove_Show.md  
 * EN - Fix: Added navigation links to Clone.md
 * EN - Fix: Added navigation links to Master.md
