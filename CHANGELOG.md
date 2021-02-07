@@ -1,4 +1,5 @@
 ### 2020-02-07
+* EN - Fix: Added navigation links to Merge.md
 * EN - Fix: Added navigation links to Checkout.md
 * EN - Fix: Added navigation links to Branch.md
 * EN - Fix: Added navigation links to Fork.md
