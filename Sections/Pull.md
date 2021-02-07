@@ -1,3 +1,7 @@
+[<<< Table of Contents](/README.md)  
+[<<< Push](/Sections/Push.md)
+
+
 ## Git-Pull
 
 `git pull` updates the local branch that you are currently checked out to with any new commits that have been on the remote [branch](/Sections/Branch.md) of the same repository. **git pull** is shorthand for **git fetch** followed by **git merge** to merge the retrieved branch heads into the current branch.
@@ -32,6 +36,11 @@ A *pull request* allows you to share and discuss the changes that you made with 
 
 ### Read more:
 * [git-fetch](https://git-scm.com/docs/git-fetch)
+
+
+##### To view all the sources used in this project, [click here!](/Sources.md)
+
+[>>> Table of Contents](/README.md)
 
 
 
