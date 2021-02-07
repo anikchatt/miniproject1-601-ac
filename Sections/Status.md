@@ -1,3 +1,6 @@
+[<<< Table of Contents](/README.md)  
+[<<< Merge](/Sections/Merge.md)
+
 ## Git-Status
 
 `git status` shows the status of changes as untracked, modified or staged.
@@ -16,5 +19,6 @@ Changes not staged for commit:
 ``` 
 If we use `git add` to stage *File1.md* and then use git `git status` the response will tell us that *File1.md* has been staged and is ready to be committed.
 
+[>>> Commit](/Sections/Commit.md)
 
 
