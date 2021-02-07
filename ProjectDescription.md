@@ -1,3 +1,4 @@
+[<<< Table of Contents](/README.md)
 # Project Description
 The goal of this project is to display the usage of Git, Docker, automated testing, and continuous integration and how they can improve the productivity and competitiveness of a company. Using these key components a company is able to advance their development operations (DevOps) which is a crucial in today's time because it enables faster development of new products and easier maintenance of existing deployments.
 
@@ -12,3 +13,8 @@ The goal of this project is to display the usage of Git, Docker, automated testi
 
 ## Automated Testing: 
 * Automated testing is defined as a software testing process that compares expected outcomes from an application with the actual outcome. The way a developer can achieve this is by writing test modules for the modules you have already developed. There are also applications that exist that will automatically test that your code passes all neccessary tests before it can be deployed. An example of such application is tox that is used to standardize testing in Python. Tox is utilzied to check that all your packages are installed correctly, integrates with continous integration servers like Jenkins, and runs all your tests within your environment. The benefits of using automated testing include a time saving, faster feedback, and allows for higher test coverage. 
+
+
+ 
+
+[GitFlow >>>](/Sections/gitFlow.md)
