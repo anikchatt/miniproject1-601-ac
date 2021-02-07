@@ -1,3 +1,8 @@
+### 2020-02-07
+EN - Fix: Updated Changelog 2020-02-05  
+
+
+
 ### 2020-02-06
 EN - Task: Checked off Master Branch  
 EN - Task: Checked off Status  
@@ -5,6 +10,8 @@ EN - Task: Checked off Remote Add/Remove/Show
 EN - Fix: Updated Table of Contents  
   
 ### 2020-02-05
+EN - Feature: Defined Push  
+EN - Feature: Defined Checkout
 AC - Feature: Added Sources with links used for research / tutorials  
 AC - Fix: Updating table of content to check off commit  
 AC - Feature: Adding documentation about Commit  
@@ -26,13 +33,13 @@ AC - Feature: Added information about repositories
 AC - Fix: Reformatting syntax with image  
 AC - Fix: Adding links to other sections for keywords  
 AC - Merge remote-tracking branch 'origin/ENFeature'  
-AC - Fix: Delete Duplicate Merge.md  
-AC - Fix: Update Merge.md  
+EN - Fix: Delete Duplicate Merge.md  
+EN - Fix: Update Merge.md  
 AC - Fix: Updated Table of Contents checklist  
 AC - Fix: Fixing image diagram in gitFlow part 4  
 AC - Fix: Fixing image diagram in gitFlow part 3  
-AC - Fix: Typo in Merge doc  
-AC - Feature: Defined Merge  
+EN - Fix: Typo in Merge doc  
+EN - Feature: Defined Merge  
 AC - Fix: Fixing image diagram in gitFlow part 2  
 AC - Fix: Fixing image diagram in gitFlow  
 AC - Feature: Added documentation for GitFlow  
