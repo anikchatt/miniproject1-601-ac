@@ -1,4 +1,8 @@
 ### 2020-02-07
+* EN - Fix: Added navigation link to Sources.md
+* EN - Fix: Added navigation links to Pull.md
+* EN - Fix: Added navigation links to Push.md
+* EN - Fix: Added navigation links to Commit.md
 * EN - Fix: Added navigation links to Status.md
 * EN - Fix: Added navigation links to Merge.md
 * EN - Fix: Added navigation links to Checkout.md
