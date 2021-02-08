@@ -1,3 +1,6 @@
+### 2020-02-08
+* EN - Fix: Update Changelog
+
 ### 2020-02-07
 * EN - Task: Added URL for push screenshot
 * EN - Feature: Added push screenshot through URL
