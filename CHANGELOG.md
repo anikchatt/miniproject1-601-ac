@@ -1,5 +1,8 @@
 ### 2020-02-07
-* EN - Feature: Added Master Branch Screenshot to Master.md  
+* EN - Feature: Added Master Branch Screenshot to Master.md
+* AC - Fix: Removing wording from readme
+* AC - Feature: Adding in a new collaboration image to readme
+* AC - Task: Adding a new image for git collab
 * EN - Fix: Added navigation link to Sources.md
 * EN - Fix: Added navigation links to Pull.md
 * EN - Fix: Added navigation links to Push.md
