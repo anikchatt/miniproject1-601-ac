@@ -1,7 +1,7 @@
 [<<< Table of Contents](/README.md)  
 [<<< Merge](/Sections/Merge.md)
 
-## Git-Status
+## Status
 
 `git status` shows the status of changes as untracked, modified or staged.
 
