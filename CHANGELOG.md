@@ -28,6 +28,12 @@
 
 
 ### 2020-02-06
+* AC - Task: Updated sources to include all relevant sources
+* AC - Fix: Updating README.md
+* AC - Feature: Removing sources from individual markdown pages and including them in source documentation to provide more precise flow
+* AC - Feature: Merging all of Nicolas's changes into main repo
+* EN - Fix: Fixing Changelog.md
+* EN - Feature: Added initial Chanelog.md
 * EN - Task: Checked off Master Branch  
 * EN - Task: Checked off Status  
 * EN - Task: Checked off Remote Add/Remove/Show  
