@@ -1,7 +1,7 @@
 [<<< Table of Contents](/README.md)  
 [<<< Branch](/Sections/Branch.md)  
 
-## Git-Checkout
+## Checkout
 
 `git checkout` allows us to switch branchess. If we are working on the master/main branch, and we create a branch:  
 
