@@ -1,4 +1,5 @@
 ### 2020-02-07
+* EN - Feature: Added Master Branch Screenshot to Master.md  
 * EN - Fix: Added navigation link to Sources.md
 * EN - Fix: Added navigation links to Pull.md
 * EN - Fix: Added navigation links to Push.md
