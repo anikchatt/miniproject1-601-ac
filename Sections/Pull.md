@@ -2,7 +2,7 @@
 [<<< Push](/Sections/Push.md)
 
 
-## Git-Pull
+## Pull
 
 `git pull` updates the local branch that you are currently checked out to with any new commits that have been on the remote [branch](/Sections/Branch.md) of the same repository. **git pull** is shorthand for **git fetch** followed by **git merge** to merge the retrieved branch heads into the current branch.
 
