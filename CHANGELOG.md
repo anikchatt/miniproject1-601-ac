@@ -1,4 +1,5 @@
 ### 2020-02-07
+* EN - Task: Added URL for push screenshot
 * EN - Feature: Added push screenshot through URL
 * EN - Feature: Added Master Branch Screenshot to Master.md
 * AC - Fix: Removing wording from readme
